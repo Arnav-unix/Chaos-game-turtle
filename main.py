@@ -18,8 +18,9 @@ t.pensize(1)
 wn = turtle.Screen()
 wn.listen()
 wn.onkey(wn.bye, "Return")
-w, h = 1000, 1000
-wn.setup(width=w, height=h)
+w = wn.window_width()
+h = wn.window_height()
+wn.setup(width=1.0, height=1.0)
 t.speed(0)
 wn.tracer(0)
 
