@@ -13,8 +13,6 @@ run this
 ./main
 ```
 
-```
-```
 (Windows, MacOS)
 
 Scroll to the bottom
