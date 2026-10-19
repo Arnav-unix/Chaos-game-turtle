@@ -2,45 +2,45 @@ This is a Python script that uses turtle graphics to draw fractals using the cha
 This may help you understand it better
 https://youtube.com/shorts/QK2SJo-AxT4?si=HJIofUbrQpiR5QcL
 
-**Download**
+# Download
 
-(Linux, Android (Termux), Ios (Ish shell))
+**Linux, Android (Termux), Ios (Ish shell)**
 
-Download the latest file from Releases named "main"
-Navigate to the directory you downloaded the file
+Download the latest file from Releases named "main", 
+Navigate to the directory you downloaded the file and 
 run this
 ```bash
 ./main
 ```
 
-(Windows, MacOS)
+**Windows, MacOS**
 
 Scroll to the bottom
 
-**Usage**
+# Usage
 You can leave almost everything as it is but you can change these
 
-(sierpinski triangle)
-sides = 3
+**sierpinski triangle**<br>
+sides = 3<br>
 operation = distance / 2
 
-(pentagon)
-sides = 5
+**pentagon**<br>
+sides = 5<br>
 operation = distance * 0.618
 
-(hexagon)
-sides = 6
+**hexagon**<br>
+sides = 6<br>
 operation = distance * (1/3)
 
 You can search more on the internet.
 
 
-(Windows, MacOS)
+# Windows, MacOS
 Because neither i have a Windows nor a MacOS only android, i couldn't make it for Windows or MacOS, but you still can use it like this assuming you have python3 and git installed
 
 Note: These are not tested so please don't ask me if it fails
 
-(Windows, MacOS)
+**Windows, MacOS**
 
 ```bash
 git clone https://github.com/Arnav-unix/Chaos-game-turtle.git
@@ -48,7 +48,7 @@ cd Chaos-game-turtle
 python3 main.py
 ```
 
-If you want a .exe or .app file do this
+If you want a .exe or a MacOS executable file do this
 
 ```bash
 # Installing pyinstaller
@@ -59,16 +59,12 @@ pyinstaller main.py --clean --onefile --noconsole
 ```
 
 Now to run it
-(Windows)
+**Windows**
 ```bash
 .\dist\main.exe
 ```
 
-(MacOS)
+**MacOS**
 ```bash
 ./dist/main
-```
-```
-```
-```
 ```
