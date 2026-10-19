@@ -4,7 +4,7 @@ https://youtube.com/shorts/QK2SJo-AxT4?si=HJIofUbrQpiR5QcL
 
 # Download
 
-**Linux, Android (Termux), Ios (Ish shell)**
+**Linux, Android (Termux)**
 
 Download the latest file from Releases named "main", 
 Navigate to the directory you downloaded the file and 
