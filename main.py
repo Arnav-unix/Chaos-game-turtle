@@ -101,9 +101,7 @@ for i in range(amount.get()):
     distance = dist((t.xcor(), t.ycor()), cords[vertex])
     t.setheading(t.towards(cords[vertex]))
     t.fd(eval(opr.get()))
-    t.pendown()
-    t.circle(1)
-    t.penup()
+    t.dot(2)
     # Screen updating frequency
     if i % sur.get() == 0:
         wn.update()
