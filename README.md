@@ -6,14 +6,14 @@ https://youtube.com/shorts/QK2SJo-AxT4?si=HJIofUbrQpiR5QcL
 
 **Linux, Android (Termux)**
 
-Download the latest file from Releases named "main-your-architecture", 
+Download the latest file from Releases named "main-os-architecture", 
 Navigate to the directory you downloaded the file and 
 run this
 ```bash
 ./main
 ```
 
-**Windows, MacOS**
+**Windows, MacOS, android x86_64 and all 32 bit machines**
 
 Scroll to the bottom
 
