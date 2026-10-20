@@ -6,7 +6,7 @@ https://youtube.com/shorts/QK2SJo-AxT4?si=HJIofUbrQpiR5QcL
 
 **Linux, Android (Termux)**
 
-Download the latest file from Releases named "main", 
+Download the latest file from Releases named "main-<your architecture>", 
 Navigate to the directory you downloaded the file and 
 run this
 ```bash
